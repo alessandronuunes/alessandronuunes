@@ -1,35 +1,30 @@
-# 👋 Olá, sou Alessandro Nunes (@alessandronuunes)
+👋 **Hi, I’m Alessandro Nunes (@alessandronunes)**
 
-## Sobre mim
-- 🇧🇷 Desenvolvedor brasileiro do Paraná
-- 👨‍👩‍👧‍👧 Casado e pai de 4 filhos
-- ✝️ Católico 🇻🇦
-- 🧩 Trabalho como PJ (Pessoa Jurídica)
-- 💻 Desenvolvedor Full Stack com foco em resolver desafios
-- 🧰 Experiência com FilamentPHP para painéis administrativos
-- 🌱 Atualmente aprendendo inglês (nível básico)
-- 💞️ Procurando colaborar em projetos e fazer novas conexões
+🇧🇷 Brazilian full‑stack developer from Paraná, working as a freelancer (PJ).  
+👨‍👩‍👧‍👦 Married and father of 5 children.  
+✝️ Catholic, with a focus on ethics and purpose in my work.  
 
-## Experiência & Habilidades
-- 🔄 Full Stack - me viro para resolver qualquer desafio técnico
-- 🔌 Experiência com chat, WebSocket, API RESTful
-- 🚀 Desenvolvimento de APIs com Laravel
-- 🖥️ Front-end com Vue.js e Nuxt.js
-- 🧰 Sistemas administrativos com FilamentPHP, Livewire e Alpine.js
+💻 **What I do**
+- Development of RESTful APIs with Laravel.  
+- Front‑end with Vue.js / Nuxt.js.  
+- Administrative panels with FilamentPHP, Livewire, and Alpine.js.  
+- Integrations (chat, WebSocket, telephony, etc.).  
 
-## Tecnologias
-- Backend: PHP | Laravel | MySQL
-- Frontend: Vue.js | HTML | CSS | JavaScript
-- Ferramentas: FilamentPHP | Livewire | Alpine.js
-- API: RESTful | Integrações
-- Outros: Git | Docker
+🧩 **Projects & focus**
+- White‑label SaaS platforms (Laravel + Vue + Filament).  
+- Call‑center platform with telephony integration and reporting.  
+- Multi‑tenant administrative systems and operation dashboards.  
 
-## Contato
-- 📫 Twitter/X: [@alessandronuunes](https://twitter.com/alessandronuunes)
-- 💼 LinkedIn: [https://www.linkedin.com/in/alessandronuunes]
-- 📧 Email: [alessandronuunes@gmail.com]
+🌱 **Currently learning**
+- Improving my English (basic level).  
+- Exploring microservices architecture and cloud technologies.  
 
-<!---
-alessandronuunes/alessandronuunes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💞️ **What I’m looking for**
+- Opportunities to contribute to open‑source projects using Laravel/Vue/Filament.  
+- Partnerships for developing SaaS and administrative panels.  
+- New connections with Brazilian and international developers.  
+
+📬 **Contact**
+- 🐦 Twitter/X: [@alessandronuunes](https://twitter.com/alessandronuunes)  
+- 💼 LinkedIn: [linkedin.com/in/alessandronuunes](https://www.linkedin.com/in/alessandronuunes)  
+- 📧 Email: [alessandronuunes@gmail.com](mailto:alessandronuunes@gmail.com)
